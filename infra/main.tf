@@ -39,8 +39,8 @@ resource "azurerm_container_app" "container_app" {
 
   template {
     container {
-      name   = "canada-info-hub"
-      image  = "yogdeepsingh/website:canada-website"
+      name   = "my docker Image"
+      image  = "my docker image for contianer app"
       cpu    = 0.25
       memory = "0.5Gi"
     }
