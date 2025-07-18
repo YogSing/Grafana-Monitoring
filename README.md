@@ -4,6 +4,8 @@
 # Key Features
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/YogSing/Grafana-Monitoring/blob/main/bicep/main.bicep)
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri=https://raw.githubusercontent.com/YogSing/Grafana-Monitoring/refs/heads/main/bicep/template.json)
+
 
 - Deploys Azure Managed Grafana using Terraform for Azure Container app
 
