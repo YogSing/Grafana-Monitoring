@@ -77,3 +77,8 @@ Encountered a missing Monitoring Reader role on the resource level, which caused
 - Practiced infrastructure automation using Terraform
 - Learned role-based access control for Azure Grafana resources
 
+# Infra Architecture Diagram
+
+<img width="1263" height="779" alt="image" src="https://github.com/user-attachments/assets/051791b5-a001-4fd4-abda-ae3df7f97700" />
+
+
