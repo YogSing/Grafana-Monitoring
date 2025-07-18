@@ -3,7 +3,7 @@
 #  💡**Deploy to Azure in One Click** 💡
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYogSing%2FGrafana-Monitoring%2Fmain%2FTemplate%2Ftemplate.json)
 
-Before deploying, replace all instances of <your-container-image> in the ARM template with your actual container image URI **`[myregistry/my-app-image:latest]`**
+Before deploying, replace all instances of `<your-container-image>` in the ARM template with your actual container image URI **`[myregistry/my-app-image:latest]`**
 # Key Features
 - Deploys Azure Managed Grafana using Terraform for Azure Container App Monitoring
 - Integrates Azure Monitor, Log Analytics, and RBAC
