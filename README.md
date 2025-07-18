@@ -13,7 +13,8 @@ Before deploying, replace all instances of <your-container-image> in the ARM tem
 - **infra/**
   - `main.tf`
   - `variables.tf`
-  -  `provider.tf` 
+  -  `provider.tf`
+- `Template`
 - `.gitignore`
 - `README.md`
   
