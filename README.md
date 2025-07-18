@@ -10,7 +10,14 @@
 - Custom dashboards provide real-time visibility
 
 - Ideal for SRE, CloudOps, and DevOps use cases
-
+# Project Structure
+- **infra/**
+  - `main.tf`
+  - `variables.tf`
+  -  `provider.tf` 
+- `.gitignore`
+- `README.md`
+  
 # Tech Stack
 
 - **Terraform**                         [Used to define infrastructure for the project]
