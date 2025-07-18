@@ -2,6 +2,8 @@
    This project demonstrates real-world skills in monitoring Azure resources, particularly Azure Container Apps, using Azure Managed Grafana and Terraform. It showcases how to collect metrics and logs from cloud infrastructure, visualize them in custom Grafana dashboards,     and configure end-to-end observability using Azure Monitor and Log Analytics, all provisioned with Infrastructure as Code.
 
 # Key Features
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/YogSing/Grafana-Monitoring/blob/main/bicep/main.bicep)
+
 
 - Deploys Azure Managed Grafana using Terraform for Azure Container app
 
