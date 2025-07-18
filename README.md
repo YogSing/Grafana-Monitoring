@@ -1,16 +1,13 @@
 # Grafana-Monitoring for Azure Container App
-   This project demonstrates real-world skills in monitoring Azure resources, particularly Azure Container Apps, using Azure Managed Grafana and Terraform. It showcases how to collect metrics and logs from cloud infrastructure, visualize them in custom Grafana dashboards,     and configure end-to-end observability using Azure Monitor and Log Analytics, all provisioned with Infrastructure as Code.
+   This project demonstrates real-world skills in monitoring Azure resources, particularly Azure Container Apps, using Azure Managed Grafana and Terraform. It showcases how to collect metrics and logs from cloud infrastructure, visualize them in custom Grafana   dashboards, and configure end-to-end observability using Azure Monitor and Log Analytics, all provisioned with Infrastructure as Code.
+#  💡**Deploy to Azure in One Click** 💡
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYogSing%2FGrafana-Monitoring%2Fmain%2FTemplate%2Ftemplate.json)
 
+Before deploying, replace all instances of <your-container-image> in the ARM template with your actual container image URI **`[myregistry/my-app-image:latest]`**
 # Key Features
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYogSing%2FGrafana-Monitoring%2Fmain%2Fbicep%2Ftemplate.json)
-
-
-- Deploys Azure Managed Grafana using Terraform for Azure Container app
-
+- Deploys Azure Managed Grafana using Terraform for Azure Container App Monitoring
 - Integrates Azure Monitor, Log Analytics, and RBAC
-
 - Custom dashboards provide real-time visibility
-
 - Ideal for SRE, CloudOps, and DevOps use cases
 # Project Structure
 - **infra/**
