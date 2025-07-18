@@ -27,8 +27,7 @@
 - **Azure Monitor**	                    [Collects metrics and sets up alerts, part of observability]
 
 # Dashboard 
-
-<img width="1589" height="948" alt="image" src="https://github.com/user-attachments/assets/99e05d4d-f694-4dae-91f2-c17084384fbc" />
+  <img width="1558" height="854" alt="Dashboard-Linkedin" src="https://github.com/user-attachments/assets/3f22d6d3-ff72-4349-93fe-32f34b304a18" />
 
 # Key Setup Highlights
 - **Grafana Role Assignment**:
