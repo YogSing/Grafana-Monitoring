@@ -140,9 +140,9 @@
                 "template": {
                     "containers": [
                         {
-                            "image": "yogdeepsingh/website:canada-website",
-                            "imageType": "ContainerImage",
-                            "name": "canada-info-hub",
+                            "image": "<your-container-image>",
+                            "imageType": "<your-container-image>",
+                            "name": "<your-container-image>",
                             "resources": {
                                 "cpu": 0.25,
                                 "memory": "0.5Gi"
